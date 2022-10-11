@@ -3,14 +3,14 @@
 <p align="center">
 <a href="https://python.org"><img src="http://forthebadge.com/images/badges/made-with-python.svg" alt="made-with-python"></a>
 <br>
-    <img src="https://img.shields.io/github/stars/8769ANURAG/LIVE-STATUS-FOR-TG-BOT?style=for-the-badge" alt="Stars">
-    <img src="https://img.shields.io/github/forks/8769ANURAG/LIVE-STATUS-FOR-TG-BOT?style=for-the-badge" alt="Forks">
-    <img src="https://img.shields.io/github/watchers/8769ANURAG/LIVE-STATUS-FOR-TG-BOT?style=for-the-badge" alt="Watchers"> 
+    <img src="https://img.shields.io/github/stars/AM-ROBOTS/LIVE-STATUS-FOR-TG-BOT?style=for-the-badge" alt="Stars">
+    <img src="https://img.shields.io/github/forks/AM-ROBOTS/LIVE-STATUS-FOR-TG-BOT?style=for-the-badge" alt="Forks">
+    <img src="https://img.shields.io/github/watchers/AM-ROBOTS/LIVE-STATUS-FOR-TG-BOT?style=for-the-badge" alt="Watchers"> 
 <br>
-    <img src="https://img.shields.io/github/license/8769ANURAG/LIVE-STATUS-FOR-TG-BOT?style=for-the-badge" alt="License">
-    <img src="https://img.shields.io/github/repo-size/8769ANURAG/LIVE-STATUS-FOR-TG-BOT?style=for-the-badge" alt="Repository Size">
-    <img src="https://img.shields.io/github/contributors/8769ANURAG/LIVE-STATUS-FOR-TG-BOT?style=for-the-badge" alt="Contributors">
-    <img src="https://img.shields.io/github/issues/8769ANURAG/LIVE-STATUS-FOR-TG-BOT?style=for-the-badge" alt="Issues">
+    <img src="https://img.shields.io/github/license/AM-ROBOTS/LIVE-STATUS-FOR-TG-BOT?style=for-the-badge" alt="License">
+    <img src="https://img.shields.io/github/repo-size/AM-ROBOTS/LIVE-STATUS-FOR-TG-BOT?style=for-the-badge" alt="Repository Size">
+    <img src="https://img.shields.io/github/contributors/AM-ROBOTS/LIVE-STATUS-FOR-TG-BOT?style=for-the-badge" alt="Contributors">
+    <img src="https://img.shields.io/github/issues/AM-ROBOTS/LIVE-STATUS-FOR-TG-BOT?style=for-the-badge" alt="Issues">
 </p>  
 
 ## Config Vars
@@ -29,10 +29,10 @@
 
 [🎥 Tutorial Video: ](https://youtube.com/channel/UCqts9WhhlioK3RB9XQQzoAg)    
     
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/8769ANURAG/LIVE-STATUS-FOR-TG-BOT)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AM-ROBOTS/LIVE-STATUS-FOR-TG-BOT)
     
 ## Credits
-- [Anurag](https://github.com/8769ANURAG)
+- [Anurag](https://github.com/AM-ROBOTS)
 - [Telegram](https://t.me/sources_cods)
 - [Pyrogram](https://github.com/pyrogram/pyrogram)
 
@@ -43,7 +43,7 @@
 
 ```
 ##Credits
-- [BotStatus Telegram bot by AM_ROBOTS] (https://github.com/8769ANURAG/LIVE-STATUS-FOR-TG-BOT)
+- [BotStatus Telegram bot by AM_ROBOTS] (https://github.com/AM-ROBOTS/LIVE-STATUS-FOR-TG-BOT)
 ```
 ## License: 
-[GNU Affero General Public License v3.0](https://github.com/8769ANURAG/LIVE-STATUS-FOR-TG-BOT/blob/master/LICENSE)
+[GNU Affero General Public License v3.0](https://github.com/AM-ROBOTS/LIVE-STATUS-FOR-TG-BOT/blob/main/LICENSE)
